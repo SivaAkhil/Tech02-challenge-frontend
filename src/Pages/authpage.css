@@ -1,0 +1,22 @@
+.authpage-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-input-container {
+  display: flex;
+  /* background-color: blue; */
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.err-msg {
+  color: red;
+}
+
+.auth-alternate-text {
+  margin-top: 20px;
+}
